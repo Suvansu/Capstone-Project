@@ -1,1 +1,1 @@
-Dataset = https://www.kaggle.com/code/mpwolke/weapon-detection
+Dataset = https://www.kaggle.com/datasets/simuletic/cctv-weapon-dataset
